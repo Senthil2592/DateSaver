@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaveTheDAte</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="adUnitId">ca-app-pub-1575509450873201/5251009771</string>
+</resources>
